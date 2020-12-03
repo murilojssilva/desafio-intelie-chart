@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+.nav-bar {
+  text-align: center;
+  background-color: #dddee1;
+  margin-bottom: 56px !important;
+}
+
+.footer {
+  background-color: #dddee1;
+}
+
+.content-wrap {
+  margin-top: 56px;
+}
+
+.text-area {
+  width: 100%; 
+  height: 300px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+}
